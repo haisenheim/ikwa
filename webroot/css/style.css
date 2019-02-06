@@ -1,0 +1,61 @@
+nav i.glyphicon{
+    font-size: 30px;
+}
+
+nav a{
+    color: white;
+    padding: 5px;
+    font-weight: 700;
+}
+
+.fiche{
+    background-color: #EEEEEE;
+    padding: 20px;
+}
+
+.fiche-inner{
+    padding: 20px;
+    background-color: #FFFFFF;
+    width: 80%;
+    margin: 30px auto;
+}
+
+.control-label{
+    font-family: cakefont;
+}
+
+.image-fond{
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-image: url('/groupon/img/3d-logo-sample.png');
+    background-size: cover;
+    width: 100%;
+    height: 98vh;
+    -webkit-filter:blur(6px);
+    -moz-filter:blur(6px);
+    -o-filter:blur(6px);
+    -ms-filter:blur(6px);
+    filter: blur(6px);
+}
+
+.page-header{
+    background-color: #FFFFFF;
+    font-weight: bolder;
+}
+.table{
+    background-color: #FFFFFF;
+}
+.contents{
+    padding: 15px;
+    background-color: #FFFFFF;
+}
+
+.contenu {
+    position: relative;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+
